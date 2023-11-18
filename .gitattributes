@@ -1,4 +1,5 @@
 # .gitattributes
 * linguist-vendored
 *.ipynb linguist-language=Python
+*.py linguist-language=Python
 
